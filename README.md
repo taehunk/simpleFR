@@ -1,4 +1,4 @@
-# Lab9 (Cache side-channel attack)
+# Simple Flush+Reload (Cache side-channel attack / Lab9)
 
 This repository contains two proof-of-concept of cache side-channel attack (i.e., Flush+Reload). 
 As all PoCs are only successfully mounted on Intel CPUs with Ubuntu, please checks your environment.
